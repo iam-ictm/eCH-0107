@@ -6,6 +6,16 @@ Der Inhalt des Standards ist vorläufig und ständigen Änderungen unterworfen. 
 
 Alle Kommentare, Anmerkungen und Korrekturen sind willkommen und fliessen dann jeweils in die nächste Version ein.
 
+## Neu in v8:
+-	Kap. 2 Einleitung finalisiert
+- Kap. 3 Stakeholder und Rollen weiter ausgearbeitet und bebildert
+- Kap. 4 weitere Überarbeitung
+- Kap. 5. Überarbeitung Subjekt, handelnde/nicht handelnde Organisation
+- Kap. 6: Prozesse (in Bearbeitung): Die Prozesse wurden/werden erweitert, aktualisert, ergänzt und vervollständigt.
+-	Kap. 7: Geschäftsservices (in Bearbeitung): keine Änderung zu v4
+-	Kap. 8: IAM für das IoT: keine Änderung zu v4
+-	Kap. 9: Privacy:  keine Änderung zu v4
+
 ## Neu in v4:
 
 -	 Kap. 2 Einleitung (teilweise überarbeitet): 
