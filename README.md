@@ -6,6 +6,9 @@ Der Inhalt des Standards ist vorläufig und ständigen Änderungen unterworfen. 
 
 Alle Kommentare, Anmerkungen und Korrekturen sind willkommen und fliessen dann jeweils in die nächste Version ein.
 
+## Neu in v10:
+-	Version für die eCH Fachgruppensitzung vom 4. Dezember 2017
+
 ## Neu in v8:
 -	Kap. 2 Einleitung finalisiert
 - Kap. 3 Stakeholder und Rollen weiter ausgearbeitet und bebildert
@@ -28,4 +31,3 @@ Alle Kommentare, Anmerkungen und Korrekturen sind willkommen und fliessen dann j
 -	Kap. 7: Geschäftsservices (in Bearbeitung): Alle Services wurden neu mit Schnittstellen versehen und ergänzt/aktualisiert
 -	Kap. 8: IAM für das IoT (neu)
 -	Kap. 9: Privacy (neu)
-
